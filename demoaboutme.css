@@ -1,0 +1,24 @@
+body{
+  background-image:url(https://images.pexels.com/photos/351448/pexels-photo-351448.jpeg);
+  background-size:cover;
+}
+
+div.header{
+  border: 2px solid white;
+  height: 200px;
+  width: 40%;
+}
+
+.header h1{
+  font-family: Kite One;
+  font-size: 85px;
+  color: white;
+  letter-spacing: 2px;
+}
+
+p1{
+  font-family: Lato;
+  font-size: 30px;
+  color: white;
+  letter-spacing: 1.7px;
+}
